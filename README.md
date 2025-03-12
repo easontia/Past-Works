@@ -18,4 +18,4 @@ MATH 512 is a course that used python to solve a lot financial problems like bin
 
 MATH 599 is a course that introduce different machine learning techniques. In my group final project, me and my group members studied the cryptocurrency market investment strategies based on deep reinforcement learning(DRL). This was mainly done in python.
 
-ECON 515 is a course on time series analysis, this is a course I am currently taking. For the final project, Me and my group are planning to do a vacancy housing time series data analysis, we are planning to use diff and diff and then use pca to analysis it and forecast the future vacancy of the housing.
+ECON 515 is a course on time series analysis. For the final project, Me and my group are planning to do a vacancy housing time series data analysis, we are planning to use diff and diff and then use pca to analysis it and forecast the future vacancy of the housing.
